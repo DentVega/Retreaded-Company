@@ -1,14 +1,14 @@
 import React, {Component} from 'react';
-import './Home.scss';
+import './NotFound.scss';
 
-class Home extends Component {
+class NotFound extends Component {
     render() {
         return (
             <div>
-                <p>Home</p>
+                <h1>Not Found</h1>
             </div>
         );
     }
 }
 
-export default Home;
+export default NotFound;
