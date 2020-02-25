@@ -12,8 +12,8 @@ class Routes extends Component {
             <BrowserRouter>
                 <Fragment>
                     <Switch>
-                        <Route exact path='' component={Splash}/>
-                        <Route exact path='home' component={Home}/>
+                        <Route exact path='/' component={Splash}/>
+                        <Route exact path='/home' component={Home}/>
                         <Route exact path='login' component={Login}/>
                         <Route exact path='signUp' component={SignUp}/>
                         <Route component={NotFound}/>

@@ -10,13 +10,13 @@ class Splash extends Component {
                 () => {
                     resolve('result')
                 },
-                1000
+                2000000
             )
         )
     };
 
     async componentDidMount() {
-        const data = this.timeSplash;
+        const data = await this.timeSplash;
         if (data !== null) {
             this.props.history.push('/home');
         }

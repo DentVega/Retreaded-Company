@@ -1,11 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f29148bc-e314-4aba-a377-05decb417873" name="Banner customizado parte 1" comment="- Banner customizado parte 1">
+      <change afterPath="$PROJECT_DIR$/src/components/customAppBar/CustomAppBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/customAppBar/CustomAppBar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/customFooter/CustomFooter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/customFooter/CustomFooter.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/bannerApp/BannerApp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/bannerApp/BannerApp.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/splash/Splash.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/splash/Splash.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Routes.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Routes.jsx" afterDir="false" />
+    </list>
+    <list id="6a8cc4ff-40f7-4569-8b10-8790e6f43f88" name="firebaseCredenciales" comment="">
+      <change beforePath="$PROJECT_DIR$/adobexd/retreading-company.xd" beforeDir="false" afterPath="$PROJECT_DIR$/adobexd/retreading-company.xd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+    </list>
+    <list id="6ed6b868-f985-4c58-afbb-311ccc98945a" name="idea" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DentVega &lt;dentvega6@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1UMArTm1ISEk0MTRpLt2GRxHt4Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f29148bc-e314-4aba-a377-05decb417873" name="Default Changelist" comment="" />
+      <changelist id="6ed6b868-f985-4c58-afbb-311ccc98945a" name="idea" comment="" />
+      <changelist id="6a8cc4ff-40f7-4569-8b10-8790e6f43f88" name="firebaseCredenciales" comment="" />
+      <created>1575156288792</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575156288792</updated>
+      <workItem from="1575156292111" duration="3809000" />
+      <workItem from="1575160132470" duration="20077000" />
+      <workItem from="1576421366392" duration="86000" />
+      <workItem from="1581429958796" duration="672000" />
+      <workItem from="1581438125347" duration="3138000" />
+      <workItem from="1581480556034" duration="2223000" />
+      <workItem from="1582598070330" duration="1460000" />
+    </task>
+    <task id="LOCAL-00001" summary="- Material-ui installation&#10;- node-sass installation&#10;- redux installation&#10;- react-router installation">
+      <created>1575164881012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575164881012</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Adobe xd file">
+      <created>1575202018209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575202018209</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- gitignore update">
+      <created>1575202103952</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575202103952</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- Firebase installation&#10;- Router configuration &#10;- Antd installation&#10;- Redux-Thunk installation">
+      <created>1575237340876</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575237340876</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Material-ui installation&#10;- node-sass installation&#10;- redux installation&#10;- react-router installation" />
+    <MESSAGE value="- Adobe xd file" />
+    <MESSAGE value="- gitignore update" />
+    <MESSAGE value="- Firebase installation&#10;- Router configuration &#10;- Antd installation&#10;- Redux-Thunk installation" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Firebase installation&#10;- Router configuration &#10;- Antd installation&#10;- Redux-Thunk installation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2019" y="280" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581438150013">
+      <screen x="1440" y="-14" width="1920" height="1057" />
+    </state>
+    <state x="422" y="267" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575240699327" />
+    <state x="2019" y="280" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581438150013" />
+    <state x="437" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575239785192">
+      <screen x="0" y="23" width="1399" height="877" />
+    </state>
+    <state x="437" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575239785192" />
+    <state x="184" y="23" key="CommitChangelistDialog2" timestamp="1575237340353">
+      <screen x="0" y="23" width="1399" height="877" />
+    </state>
+    <state x="184" y="23" key="CommitChangelistDialog2/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575237340353" />
+    <state x="99" y="123" width="1199" height="677" key="DiffContextDialog" timestamp="1575237332887">
+      <screen x="0" y="23" width="1399" height="877" />
+    </state>
+    <state x="99" y="123" width="1199" height="677" key="DiffContextDialog/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575237332887" />
+    <state width="203" height="506" key="Git.Branch.Popup" timestamp="1581443500565">
+      <screen x="1440" y="-14" width="1920" height="1057" />
+    </state>
+    <state width="203" height="506" key="Git.Branch.Popup/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581443500565" />
+    <state width="1396" height="153" key="GridCell.Tab.0.bottom" timestamp="1582601233137">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1378" height="147" key="GridCell.Tab.0.bottom/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575251293706" />
+    <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.-14.1920.1057@0.23.1440.834" timestamp="1582601233137" />
+    <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581444168331" />
+    <state width="1396" height="153" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1581511455589" />
+    <state width="1396" height="153" key="GridCell.Tab.0.center" timestamp="1582601233136">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1378" height="147" key="GridCell.Tab.0.center/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575251293705" />
+    <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.834/1440.-14.1920.1057@0.23.1440.834" timestamp="1582601233136" />
+    <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581444168329" />
+    <state width="1396" height="153" key="GridCell.Tab.0.center/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1581511455587" />
+    <state width="1396" height="153" key="GridCell.Tab.0.left" timestamp="1582601233135">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1378" height="147" key="GridCell.Tab.0.left/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575251293704" />
+    <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.834/1440.-14.1920.1057@0.23.1440.834" timestamp="1582601233135" />
+    <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581444168329" />
+    <state width="1396" height="153" key="GridCell.Tab.0.left/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1581511455587" />
+    <state width="1396" height="153" key="GridCell.Tab.0.right" timestamp="1582601233137">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1378" height="147" key="GridCell.Tab.0.right/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575251293706" />
+    <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.834/1440.-14.1920.1057@0.23.1440.834" timestamp="1582601233137" />
+    <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581444168330" />
+    <state width="1396" height="153" key="GridCell.Tab.0.right/0.23.1440.877/1440.-14.1920.1014@0.23.1440.877" timestamp="1581511455588" />
+    <state x="44" y="42" width="1155" height="857" key="SettingsEditor" timestamp="1582601278978">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="43" y="43" width="1155" height="857" key="SettingsEditor/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575248177074" />
+    <state x="44" y="42" key="SettingsEditor/0.23.1440.834/1440.-14.1920.1057@0.23.1440.834" timestamp="1582601278978" />
+    <state x="549" y="379" key="VCS.ChangelistChooser" timestamp="1575164863502">
+      <screen x="0" y="23" width="1399" height="877" />
+    </state>
+    <state x="549" y="379" key="VCS.ChangelistChooser/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575164863502" />
+    <state x="929" y="290" width="452" height="289" key="VCS.EditChangelistDialog" timestamp="1582601838400">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="903" y="304" width="452" height="289" key="VCS.EditChangelistDialog/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575238525535" />
+    <state x="929" y="290" key="VCS.EditChangelistDialog/0.23.1440.834/1440.-14.1920.1057@0.23.1440.834" timestamp="1582601838400" />
+    <state x="298" y="197" key="Vcs.Push.Dialog.v2" timestamp="1575237352042">
+      <screen x="0" y="23" width="1399" height="877" />
+    </state>
+    <state x="298" y="197" key="Vcs.Push.Dialog.v2/0.23.1399.877/-1920.-93.1920.1057@0.23.1399.877" timestamp="1575237352042" />
+    <state x="1966" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581443468021">
+      <screen x="1440" y="-14" width="1920" height="1057" />
+    </state>
+    <state x="1966" y="327" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.834/1440.-14.1920.1057@1440.-14.1920.1057" timestamp="1581443468021" />
   </component>
 </project>
